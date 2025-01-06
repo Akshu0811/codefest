@@ -1,2 +1,2 @@
 # codefest
-to prepare for codefest
+to prepare for codefest on Jan 11th
